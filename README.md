@@ -7,6 +7,6 @@ Therefore I found my own solution to overcome this solution.
 I wrote my own header file to overcome this problem using basics of pointers and memory allocations in c.
 
 Basic I used 3 main basic functions of C++.
-1.  ```Malloc```
+1.  ```malloc```
 2.  ```realloc```
 3.  ```dealloc```

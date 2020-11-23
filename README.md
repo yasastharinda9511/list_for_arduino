@@ -1,10 +1,10 @@
 # list_for_arduino
 
 
-I think you aldready deal with arduino.If you are familiar with python, there is no any data structure similar to the list in python.
-Therefore I found my own solution to overcome this solution.
+I think you may aldready deal with arduino.If you are familiar with python, there is a data type list but there is no data type inside arduino like list (in c++ vectors).
+Therefore I found my own solution to overcome this problem.
 
-I wrote my own header file to overcome this problem using basics of pointers and memory allocations in c.
+I wrote my own header file and c++ file to overcome this problem using basics of pointers and memory allocations in c.
 
 Basic I used 3 main basic functions of C++.
 1.  ```malloc```
